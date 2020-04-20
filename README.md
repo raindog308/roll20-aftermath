@@ -33,7 +33,11 @@ and the bot will whisper to the GM:
 
 # Hit Location Tables
 
-You can create a nice hit location button for you and your players by creating a rollable table.  Here are the steps:
+You can create a nice hit location button for you and your players by creating a rollable table.  When you click the button, hit location is rolled and shown in the chat window:
+
+# image1
+
+Here are the steps:
 
 1. Load the two required dependency scripts:
 
@@ -46,11 +50,11 @@ You can create a nice hit location button for you and your players by creating a
 
 3. Modify the table so that it can be used by players.
 
-# image
+# image2
 
 4. Then create the following macro:
 
-# image
+# image3
 
 Copy/pasteable text for hit-location:
 

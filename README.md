@@ -31,5 +31,32 @@ and the bot will whisper to the GM:
 
 `(From Critical Miss Roll): rolled 25: Dud round. Autoloaders/autoweapons require 1 action to manually clear the round. Other types clear with the next round, no special action necessary.`
 
+# Hit Location Tables
 
+You can create a nice hit location button for you and your players by creating a rollable table.  Here are the steps:
+
+1. Load the two required dependency scripts:
+
+- recursiveTables.js 
+- exportableTables.js
+
+# links
+
+2. In hit-location and hit-location-quad, you'll find commands that you copy/paste into your chat window (as GM) that will recreate the rollable tables (including the images).
+
+3. Modify the table so that it can be used by players.
+
+# image
+
+4. Then create the following macro:
+
+# image
+
+Copy/pasteable text for hit-location:
+
+`!rt[showicons:true|iconlabel:on|iconscale:25.0em] [[ 1t[hit-location] ]]`
+
+for hit-location-quad:
+
+`!rt[showicons:true|iconlabel:on|iconscale:25.0em] [[ 1t[hit-location] ]]`
 

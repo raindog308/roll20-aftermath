@@ -33,7 +33,9 @@ and the bot will whisper to the GM something like this:
 
 # Hit Location Tables
 
-You can create a nice hit location button for you and your players by creating a rollable table.  When you click the button, hit location is rolled and shown in the chat window:
+You can create a nice hit location button for you and your players by creating a rollable table.  Note that these are somewhat simplified - they don't take into account shooting from the side, shooting from above/below, etc.
+
+When you click the button, hit location is rolled and shown in the chat window with an illustration:
 
 ![image](https://github.com/raindog308/roll20-aftermath/blob/master/img/image1a.png)
 

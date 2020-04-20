@@ -1,5 +1,4 @@
 on("chat:message", function(msg) {
-  //This allows players to enter !sr <number> to roll a number of d6 dice with a target of 4.
   if(msg.type == "api" && msg.content.indexOf("!bdg ") !== -1) {
     var bdg = msg.content.replace("!bdg ", "");
     

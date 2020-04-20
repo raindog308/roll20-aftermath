@@ -35,7 +35,9 @@ and the bot will whisper to the GM:
 
 You can create a nice hit location button for you and your players by creating a rollable table.  When you click the button, hit location is rolled and shown in the chat window:
 
-# image1
+![image](https://github.com/raindog308/roll20-aftermath/blob/master/img/image1a.png)
+
+![image](https://github.com/raindog308/roll20-aftermath/blob/master/img/image1b.png)
 
 Here are the steps:
 
@@ -50,11 +52,11 @@ Here are the steps:
 
 3. Modify the table so that it can be used by players.
 
-# image2
+![image](https://github.com/raindog308/roll20-aftermath/blob/master/img/image2.png)
 
 4. Then create the following macro:
 
-# image3
+![image](https://github.com/raindog308/roll20-aftermath/blob/master/img/image3.png)
 
 Copy/pasteable text for hit-location:
 
@@ -62,5 +64,5 @@ Copy/pasteable text for hit-location:
 
 for hit-location-quad:
 
-`!rt[showicons:true|iconlabel:on|iconscale:25.0em] [[ 1t[hit-location] ]]`
+`!rt[showicons:true|iconlabel:on|iconscale:25.0em] [[ 1t[hit-location-quad] ]]`
 

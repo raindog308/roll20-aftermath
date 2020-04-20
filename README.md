@@ -45,8 +45,8 @@ Here are the steps:
 
 1. Load the two required dependency scripts:
 
-- recursiveTables.js 
-- exportableTables.js
+- [recursiveTables.js ](https://app.roll20.net/forum/post/2845333/script-recursivetables-expands-inline-rolls-in-rollable-table-results/?pagenum=1)
+- [TableExport.js](https://app.roll20.net/forum/post/1144568/script-tableexport-a-script-for-exporting-rollable-tables-between-accounts)
 
 # links
 

@@ -23,11 +23,11 @@ and the bot will respond:
 
 # criticalMiss.js
 
-This roll only works for GMs, since due to cookoffs, on the GM should initially know the result.  In the chat window, invoke
+This roll checks if the roller is a GM, since due to cookoffs, only the GM should initially know the result.  In the chat window, invoke
 
 `!cm`
 
-and the bot will whisper to the GM:
+and the bot will whisper to the GM something like this:
 
 `(From Critical Miss Roll): rolled 25: Dud round. Autoloaders/autoweapons require 1 action to manually clear the round. Other types clear with the next round, no special action necessary.`
 
@@ -54,7 +54,7 @@ Here are the steps:
 
 ![image](https://github.com/raindog308/roll20-aftermath/blob/master/img/image2.png)
 
-4. Then create the following macro:
+4. Then create the following macro (this is the example for hit-location, hit-location-quad is the same):
 
 ![image](https://github.com/raindog308/roll20-aftermath/blob/master/img/image3.png)
 

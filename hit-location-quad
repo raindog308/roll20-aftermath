@@ -1,0 +1,26 @@
+!import-table --hit-location-quad --show
+!import-table-item --hit-location-quad --Location 1 --4 --https://s3.amazonaws.com/files.d20.io/images/124987645/q8vgJgT29CojsQ8mm_mxcA/med.jpg?1587332472
+!import-table-item --hit-location-quad --Location 2 --8 --https://s3.amazonaws.com/files.d20.io/images/124987732/_9jFtjR3f3X8aKDJzv4z4w/med.jpg?1587332486
+!import-table-item --hit-location-quad --Location 3 --4 --https://s3.amazonaws.com/files.d20.io/images/124987814/kKwOLK65fWmQBnMQOOu7qA/med.jpg?1587332501
+!import-table-item --hit-location-quad --Location 4 --4 --https://s3.amazonaws.com/files.d20.io/images/124987901/sCjhfvWvnKHrZbo1uuXv2Q/med.jpg?1587332514
+!import-table-item --hit-location-quad --Location 5/6 --6 --https://s3.amazonaws.com/files.d20.io/images/124987985/D6tP6NxtRVm4F6SuXRc5Ng/med.jpg?1587332526
+!import-table-item --hit-location-quad --Location 7 --3 --https://s3.amazonaws.com/files.d20.io/images/124988235/RhO3a74jhrC-Py7e6w7XgQ/med.jpg?1587332564
+!import-table-item --hit-location-quad --Location 8/9 --6 --https://s3.amazonaws.com/files.d20.io/images/124988512/VoAQvBnFoC6arKIMQxcpeA/med.jpg?1587332601
+!import-table-item --hit-location-quad --Location 10 --3 --https://s3.amazonaws.com/files.d20.io/images/124988712/4nZR1IorPJE3rsYH9xxv7A/med.jpg?1587332627
+!import-table-item --hit-location-quad --Location 11/12 --6 --https://s3.amazonaws.com/files.d20.io/images/124988943/SvgdU6QbAKcL7Oy_-Cm7MQ/med.jpg?1587332659
+!import-table-item --hit-location-quad --Location 13 --3 --https://s3.amazonaws.com/files.d20.io/images/124989301/jVDMvzNR8fz2sCW3YjyOGA/med.jpg?1587332710
+!import-table-item --hit-location-quad --Location 14/15 --6 --https://s3.amazonaws.com/files.d20.io/images/124989467/zBEBUAvJ8U7URsqrz4Lg7w/med.jpg?1587332733
+!import-table-item --hit-location-quad --Location 17 --4 --https://s3.amazonaws.com/files.d20.io/images/124990410/WXRSnTPIMenhYCsxcWIDoA/med.jpg?1587332852
+!import-table-item --hit-location-quad --Location 18 --4 --https://s3.amazonaws.com/files.d20.io/images/124990485/8WUEe6p1oTXnKZ59uC396w/med.jpg?1587332864
+!import-table-item --hit-location-quad --Location 19 --4 --https://s3.amazonaws.com/files.d20.io/images/124990781/nd-SHi88oDLCm2SbHbT13g/med.jpg?1587332892
+!import-table-item --hit-location-quad --Location 20 --4 --https://s3.amazonaws.com/files.d20.io/images/124990896/WddTx_PnHkclZWoUOvDKyQ/med.jpg?1587332906
+!import-table-item --hit-location-quad --Location 21 --4 --https://s3.amazonaws.com/files.d20.io/images/124991206/PyCNWk_0wkIwdWrtQCNZsA/med.jpg?1587332954
+!import-table-item --hit-location-quad --Location 22 --4 --https://s3.amazonaws.com/files.d20.io/images/124991621/u16e4PJRORbELS7p5VJkxQ/med.jpg?1587333016
+!import-table-item --hit-location-quad --Location 23 --4 --https://s3.amazonaws.com/files.d20.io/images/124992105/4pvj9yj1fJUbswC6u8H-fg/med.jpg?1587333080
+!import-table-item --hit-location-quad --Location 24 --4 --https://s3.amazonaws.com/files.d20.io/images/124992184/MGibMqWjXTI3b1OVozyDjg/med.jpg?1587333092
+!import-table-item --hit-location-quad --Location 25 --4 --https://s3.amazonaws.com/files.d20.io/images/124992319/Oa3pX0R3XkBkrr0vTl92KQ/med.jpg?1587333110
+!import-table-item --hit-location-quad --Location 26 --4 --https://s3.amazonaws.com/files.d20.io/images/124992397/2sk6XjAjKtIJOgQvQ33Zsg/med.jpg?1587333122
+!import-table-item --hit-location-quad --Location 27 --2 --https://s3.amazonaws.com/files.d20.io/images/124992502/ugGlw0IuTfEM9PN7PGiNGQ/med.jpg?1587333136
+!import-table-item --hit-location-quad --Location 28 --2 --https://s3.amazonaws.com/files.d20.io/images/124992598/5MvA7lCnSTSaS2pn728oiA/med.jpg?1587333145
+!import-table-item --hit-location-quad --Location 29 --4 --https://s3.amazonaws.com/files.d20.io/images/124992710/Lg9ko69avIILwpZOWsJU-A/med.jpg?1587333163
+!import-table-item --hit-location-quad --Location 30 --4 --https://s3.amazonaws.com/files.d20.io/images/124992777/yZt57fl7DfmOKven2FslyA/med.jpg?1587333175

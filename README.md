@@ -48,8 +48,6 @@ Here are the steps:
 - [recursiveTables.js ](https://app.roll20.net/forum/post/2845333/script-recursivetables-expands-inline-rolls-in-rollable-table-results/?pagenum=1)
 - [TableExport.js](https://app.roll20.net/forum/post/1144568/script-tableexport-a-script-for-exporting-rollable-tables-between-accounts)
 
-# links
-
 2. In hit-location and hit-location-quad, you'll find commands that you copy/paste into your chat window (as GM) that will recreate the rollable tables (including the images).
 
 3. Modify the table so that it can be used by players.

@@ -11,6 +11,8 @@ and the bot will respond:
 
 `attribute value of 15: group 3, effect die 1d10, AST 7, CST 5`
 
+There is a commented-out line which you can uncomment if you want it to also roll the effect die and show the result.
+
 # bdg.js
 
 In the chat window, invoke 
@@ -20,6 +22,8 @@ In the chat window, invoke
 and the bot will respond:
 
 `bdg 21 = 3d10+2`
+
+There is a commented-out line which you can uncomment if you want it to also roll dice and show the result.
 
 # criticalMiss.js
 
